@@ -1,4 +1,4 @@
-Project Title: PhonePe Pulse Data Visualization and Exploration
+#Project Title: PhonePe Pulse Data Visualization and Exploration
 Objective:
 The aim of this project is to develop a comprehensive solution for extracting, transforming, and visualizing data from the PhonePe Pulse GitHub repository. This project focuses on providing an interactive and dynamic representation of the data to uncover insights and trends.
 
