@@ -18,24 +18,24 @@ Requests and JSON were used to interact with APIs and handle JSON data, enabling
 ## Project Steps
 
 ### Data Extraction
--Method: Scripted the cloning of the PhonePe Pulse GitHub repository.
--Goal: Efficiently collect the raw data required for analysis.
+- Method: Scripted the cloning of the PhonePe Pulse GitHub repository.
+- Goal: Efficiently collect the raw data required for analysis.
 
 ### Data Transformation
--Tools: Python, Pandas.
--Process: Cleaned and structured the data to ensure it was in a usable format for analysis and visualization.
+- Tools: Python, Pandas.
+- Process: Cleaned and structured the data to ensure it was in a usable format for analysis and visualization.
 
 ### Database Insertion
--Database: MYSQL.
--Action: Stored the transformed data in a PostgreSQL database for efficient retrieval and querying.
+- Database: MYSQL.
+- Action: Stored the transformed data in a PostgreSQL database for efficient retrieval and querying.
 
 
 ### Dashboard Creation
--Tools: Streamlit, Plotly.
--Development: Built an interactive dashboard to visualize the data dynamically. The dashboard provides various charts, graphs, and interactive elements to explore the data effectively.
+- Tools: Streamlit, Plotly.
+- Development: Built an interactive dashboard to visualize the data dynamically. The dashboard provides various charts, graphs, and interactive elements to explore the data effectively.
 
 ### Data Retrieval
--Process: Implemented dynamic data fetching from the PostgreSQL database to ensure the dashboard always presents up-to-date information.
+- Process: Implemented dynamic data fetching from the PostgreSQL database to ensure the dashboard always presents up-to-date information.
 
 ## Results
 The project successfully created an interactive dashboard that allows users to explore PhonePe Pulse data in a detailed and user-friendly manner. Key trends and insights were easily identified through the visualizations provided.
