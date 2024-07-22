@@ -5,15 +5,15 @@ The aim of this project is to develop a solution that extracts, transforms, and 
 
 ## libraries used
 
-Streamlit and streamlit-option-menu were used to create an interactive dashboard and navigation menus, providing a user-friendly interface for data visualization.
+Streamlit and streamlit-option-menu : were used to create an interactive dashboard and navigation menus, providing a user-friendly interface for data visualization.
 
-Pandas was employed for data manipulation and analysis, ensuring that the data was cleaned and structured appropriately for visualization and storage.
+Pandas : was employed for data manipulation and analysis, ensuring that the data was cleaned and structured appropriately for visualization and storage.
 
-mysql-connector facilitated the connection to a MySQL database, allowing for efficient data storage and retrieval.
+mysql-connector: facilitated the connection to a MySQL database, allowing for efficient data storage and retrieval.
 
-Plotly Express enabled the creation of interactive and visually appealing plots and charts, enhancing the dashboard's ability to convey insights.
+Plotly: Express enabled the creation of interactive and visually appealing plots and charts, enhancing the dashboard's ability to convey insights.
 
-Requests and JSON were used to interact with APIs and handle JSON data, enabling the integration of external data sources into the project.
+Requests and JSON : were used to interact with APIs and handle JSON data, enabling the integration of external data sources into the project.
 
 ## Project Steps
 
