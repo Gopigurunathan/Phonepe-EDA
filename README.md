@@ -42,7 +42,7 @@ The project successfully created an interactive dashboard that allows users to e
 
 ## Challenges
 - Data Cleaning: Handling inconsistencies and ensuring data integrity during the transformation phase.
-- Database Management: Efficiently storing and retrieving large datasets from PostgreSQL.
+- Database Management: Efficiently storing and retrieving large datasets from MySQL.
 - Interactive Dashboard: Ensuring real-time updates and smooth interaction within the Streamlit and Plotly environment.
 
 ## Impact
