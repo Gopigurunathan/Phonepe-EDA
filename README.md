@@ -27,7 +27,7 @@ Requests and JSON : were used to interact with APIs and handle JSON data, enabli
 
 ### Database Insertion
 - Database: MYSQL.
-- Action: Stored the transformed data in a PostgreSQL database for efficient retrieval and querying.
+- Action: Stored the transformed data in a MYSQL database for efficient retrieval and querying.
 
 
 ### Dashboard Creation
