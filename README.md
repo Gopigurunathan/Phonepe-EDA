@@ -35,7 +35,7 @@ Requests and JSON : were used to interact with APIs and handle JSON data, enabli
 - Development: Built an interactive dashboard to visualize the data dynamically. The dashboard provides various charts, graphs, and interactive elements to explore the data effectively.
 
 ### Data Retrieval
-- Process: Implemented dynamic data fetching from the PostgreSQL database to ensure the dashboard always presents up-to-date information.
+- Process: Implemented dynamic data fetching from the MYSQL database to ensure the dashboard always presents up-to-date information.
 
 ## Results
 The project successfully created an interactive dashboard that allows users to explore PhonePe Pulse data in a detailed and user-friendly manner. Key trends and insights were easily identified through the visualizations provided.
